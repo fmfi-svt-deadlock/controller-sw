@@ -1,6 +1,6 @@
 # PROJECT MOVED
 
-This repository is now hosted here: https://gitlab.com/project-deadlock/controller/ctr-class0-model0-sw
+This repository is now hosted here: https://gitlab.com/project-deadlock/controller/ctr-fw-type1-pyroxene
 
 # controller-sw
 Software for the Controller
